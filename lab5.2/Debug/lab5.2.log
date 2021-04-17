@@ -1,0 +1,5 @@
+﻿  Perev.cpp
+D:\OOP\LABOOP\5\lab5.2\lab5.2\Perev.cpp(58,36): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\OOP\LABOOP\5\lab5.2\lab5.2\Perev.cpp(59,1): warning C5043: "Perev::setY": спецификация исключения не соответствует предыдущему объявлению
+D:\OOP\LABOOP\5\lab5.2\lab5.2\Perev.h(22): message : см. объявление "Perev::setY"
+  lab5.2.vcxproj -> D:\OOP\LABOOP\5\lab5.2\Debug\lab5.2.exe
